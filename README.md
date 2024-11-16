@@ -1,5 +1,5 @@
 # Federal Reserve Act
-- [Official Title](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/OfficialTitle)
+- [Official Title](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Title)
 - [Section 1: Short Title and Definitions](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section1)
 - [Section 2: Federal Reserve Districts](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2)
 - [Section 2A: Monetary Policy Objectives](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2A)
