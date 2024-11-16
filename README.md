@@ -1,2 +1,60 @@
-# sturdy-giggle
+# pewter-sturdy-giggle
 Federal Reserve Act
+
+#8BA8B7
+- **pewter**: A magical, shiny material used for toys and tools.
+- **sturdy**: strong and resilient, able to handle Muppet mischief.
+- **giggles**: infectious bursts of joy and laughter filling the air.
+
+- [Official Title](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/OfficialTitle)
+- [Section 1: Short Title and Definitions](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section1)
+- [Section 2: Federal Reserve Districts](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2)
+- [Section 2A: Monetary Policy Objectives](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2A)
+- [Section 2B: Appearances Before and Reports to the Congress](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2B)
+- [Section 3: Branch Offices](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section3)
+- [Section 4: Federal Reserve Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section4)
+- [Section 5: Stock Issues; Increase and Decrease of Capital](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section5)
+- [Section 6: Insolvency of Member Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section6)
+- [Section 7: Division of Earnings](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section7)
+- [Section 8: Conversion of State Banks into National Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section8)
+- [Section 9: State Banks as Members](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section9)
+- [Section 9A: Participation in Lotteries Prohibited](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section9A)
+- [Section 9B: Resolution of Clearing Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section9B)
+- [Section 10: Board of Governors of the Federal Reserve System](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section10)
+- [Section 10A: Emergency Advances to Groups of Member Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section10A)
+- [Section 10B: Advances to Individual Member Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section10B)
+- [Section 11: Powers of Board of Governors of the Federal Reserve System](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section11)
+- [Section 11A: Pricing of Services](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section11A)
+- [Section 11B: Annual Independent Audits of Federal Reserve Banks and Board](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section11B)
+- [Section 11C: Master Account and Services Database](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section11C)
+- [Section 12: Federal Advisory Council](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section12)
+- [Section 12A: Federal Open Market Committee](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section12A)
+- [Section 13: Powers of Federal Reserve Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section13)
+- [Section 13A: Discount of Agricultural Paper](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section13A)
+- [Section 14: Open-Market Operations](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section14)
+- [Section 15: Government Deposits](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section15)
+- [Section 16: Note Issues](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section16)
+- [Section 17: Deposit of Bonds by National Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section17)
+- [Section 18: Refunding Bonds](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section18)
+- [Section 19: Bank Reserves](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section19)
+- [Section 20: National Bank Notes Redemption Fund as Reserve](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section20)
+- [Section 21: Bank Examinations](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section21)
+- [Section 22: Offenses of Examiners, Member Banks, Officers, and Directors](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section22)
+- [Section 23: Interbank Liabilities](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section23)
+- [Section 23A: Relations with Affiliates](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section23A)
+- [Section 23B: Restrictions on Transactions with Affiliates](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section23B)
+- [Section 24: Real Estate Loans](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section24)
+- [Section 24A: Investment in Bank Premises or Stock of Corporation Holding Premises](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section24A)
+- [Section 25: Foreign Branches](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section25)
+- [Section 25A: Banking Corporations Authorized to Do Foreign Banking Business](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section25A)
+- [Section 25B: Jurisdiction of Suits](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section25B)
+- [Section 25C: Potential Liability on Foreign Accounts](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section25C)
+- [Section 26: Repealed](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section26)
+- [Section 27: Tax on National Bank Notes](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section27)
+- [Section 28: Reduction of Capital of National Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section28)
+- [Section 29: Civil Money Penalty](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section29)
+- [Section 30: Saving Clause](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section30)
+- [Section 31: Reservation of Right to Amend](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section31)
+
+### Note
+Each link above leads to an external page
