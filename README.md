@@ -1,10 +1,4 @@
-# #8BA8B7
-Federal Reserve Act
-
-- *pewter*: A magical, shiny material used for toys and tools.
-- **sturdy**: big and tall 
-- *giggles*: infectious bursts of joy and laughter filling the air.
-
+# Federal Reserve Act
 - [Official Title](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/OfficialTitle)
 - [Section 1: Short Title and Definitions](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section1)
 - [Section 2: Federal Reserve Districts](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section2)
