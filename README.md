@@ -28,7 +28,7 @@
 - [Section 15: Government Deposits](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section15)
 - [Section 16: Note Issues](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section16)
 - [Section 17: Deposit of Bonds by National Banks](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section17)
-- [Section 18: Refunding Bonds](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section18)
+- [Section 18: Refunding Bonds](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/SECTION18)
 - [Section 19: Bank Reserves](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section19)
 - [Section 20: National Bank Notes Redemption Fund as Reserve](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section20)
 - [Section 21: Bank Examinations](https://raw.githubusercontent.com/movicolon/pewter-sturdy-giggle/refs/heads/main/Section21)
